@@ -1,1 +1,2 @@
-Hello GitHub
+1. Hello GitHub.
+2. Hi GitHub.
