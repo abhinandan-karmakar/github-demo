@@ -10,4 +10,4 @@ change happen.
 
 checking with no-direct merge.
 
-Normal checking.
+Normal Merge-issue.
