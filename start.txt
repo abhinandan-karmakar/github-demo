@@ -9,3 +9,5 @@ Working
 change happen.
 
 checking with no-direct merge.
+
+Normal checking.
