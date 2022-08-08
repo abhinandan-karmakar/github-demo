@@ -11,3 +11,5 @@ change happen.
 checking with no-direct merge.
 
 Merge Problem
+
+Invisible
